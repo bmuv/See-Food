@@ -2,7 +2,8 @@
 
 ## Overview
 "See-Food" is inspired by the fictional "SeeFood" app featured in the comedy TV show *Silicon Valley* - https://www.youtube.com/watch?v=vIci3C4JkL0. Originally conceived as a "Shazam for food," the development in the show stalled when the algorithm could only detect hot dogs. Emulating this concept, See-Food is a playful take on image classification, designed to identify whether an image is a hot dog or not. This project serves as an educational tool to explore and understand the basics of image classification using deep learning.
-Dataset : https://www.kaggle.com/datasets/thedatasith/hotdog-nothotdog
+
+**Dataset :** https://www.kaggle.com/datasets/thedatasith/hotdog-nothotdog
 
 ## Technology Stack
 - **PyTorch**: Utilized for building and training the neural network.
