@@ -17,7 +17,7 @@ Ensure you have Python installed on your machine. It is recommended to use a vir
 ### Installation
 1. Clone the repository:
    ```
-   git clone [https://github.com/bmuv/See-Food.git]
+   git clone https://github.com/bmuv/See-Food.git
    ```
 2. Install the required dependencies:
    ```
