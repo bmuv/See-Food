@@ -9,7 +9,7 @@ Dataset : https://www.kaggle.com/datasets/thedatasith/hotdog-nothotdog
 - **Streamlit**: Used to create a user-friendly web interface that allows users to interact with the model.
 
 ## Setup
-To get SeeFud up and running, follow these steps:
+To get See-Food up and running, follow these steps:
 
 ### Prerequisites
 Ensure you have Python installed on your machine. It is recommended to use a virtual environment to manage dependencies.
@@ -17,7 +17,7 @@ Ensure you have Python installed on your machine. It is recommended to use a vir
 ### Installation
 1. Clone the repository:
    ```
-   git clone [<repository-url>](https://github.com/bmuv/See-Food.git)
+   git clone [https://github.com/bmuv/See-Food.git]
    ```
 2. Install the required dependencies:
    ```
