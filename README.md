@@ -2,14 +2,15 @@
 
 ## Overview
 "See-Food" is inspired by the fictional "SeeFood" app featured in the comedy TV show *Silicon Valley* - https://www.youtube.com/watch?v=vIci3C4JkL0. Originally conceived as a "Shazam for food," the development in the show stalled when the algorithm could only detect hot dogs. Emulating this concept, See-Food is a playful take on image classification, designed to identify whether an image is a hot dog or not. This project serves as an educational tool to explore and understand the basics of image classification using deep learning.
-Dataset : https://www.kaggle.com/datasets/thedatasith/hotdog-nothotdog
+
+**Dataset :** https://www.kaggle.com/datasets/thedatasith/hotdog-nothotdog
 
 ## Technology Stack
 - **PyTorch**: Utilized for building and training the neural network.
 - **Streamlit**: Used to create a user-friendly web interface that allows users to interact with the model.
 
 ## Setup
-To get SeeFud up and running, follow these steps:
+To get See-Food up and running, follow these steps:
 
 ### Prerequisites
 Ensure you have Python installed on your machine. It is recommended to use a virtual environment to manage dependencies.
@@ -17,7 +18,7 @@ Ensure you have Python installed on your machine. It is recommended to use a vir
 ### Installation
 1. Clone the repository:
    ```
-   git clone [<repository-url>](https://github.com/bmuv/See-Food.git)
+   git clone https://github.com/bmuv/See-Food.git
    ```
 2. Install the required dependencies:
    ```
