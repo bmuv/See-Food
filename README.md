@@ -27,15 +27,15 @@ Ensure you have Python installed on your machine. It is recommended to use a vir
 ### Usage
 To use SeeFud, you can train the model, test its accuracy, or launch the app for inference:
 
-- **Training the model**:
+ **Training the model**:
   ```
   python ./src/train.py
   ```
-- **Testing the model**:
+ **Testing the model**:
   ```
   python ./src/test.py
   ```
-- **Launching the app**:
+ **Launching the app**:
   ```
   streamlit run ./src/app.py
   ```
